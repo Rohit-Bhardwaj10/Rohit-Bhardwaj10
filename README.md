@@ -2,7 +2,7 @@
 - 👀 I’m interested in React js , Next Js
 - 🌱 I’m currently learning Solidity ,Rust
 - 💞️ I’m looking to collaborate on full-stack projects and web3 projects
-- 📫 How to reach me rb329563@gmail.com
+- 📫 How to reach me beastslayer23456@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am good at breaking things , but even better at fixing them.
 
